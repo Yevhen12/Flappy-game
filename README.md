@@ -1,3 +1,3 @@
 # Flappy-game
 
-Fllapy gmae built with QT
+Fllapy game built with QT
