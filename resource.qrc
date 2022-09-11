@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/someImage">
+        <file>images/background.png</file>
+        <file>images/down.png</file>
+        <file>images/game-over.png</file>
+        <file>images/middle.png</file>
+        <file>images/pillar.png</file>
+        <file>images/up.png</file>
+        <file>images/flappy.png</file>
+        <file>images/flappy.jpg</file>
+        <file>images/flappy-bird.jpg</file>
+        <file>images/flappy-bird1.jpg</file>
+    </qresource>
+</RCC>
